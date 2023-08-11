@@ -3,7 +3,6 @@ import ReactDOM from 'react-dom/client';
 import reportWebVitals from './reportWebVitals';
 import TodoList from './TodoList';
 
-
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
     <TodoList />
